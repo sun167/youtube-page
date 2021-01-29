@@ -1,0 +1,1 @@
+Embedding videos and images, inspired by Youtube layout
